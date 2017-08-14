@@ -16,5 +16,5 @@ this will told the weather in localtion
 
 you can use it like this also.
 
-`weather Ö£ÖÝ`
+`weather éƒ‘å·ž`
 
