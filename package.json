@@ -1,0 +1,18 @@
+{
+  "name": "npmweather",
+  "version": "1.0.3",
+  "bin":{
+    "weather":"./index.js"
+  },
+  "description": "you can use it seach weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
